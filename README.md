@@ -1,3 +1,4 @@
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/bear_classifier.ipynb)     
 
 代码包括：
 
